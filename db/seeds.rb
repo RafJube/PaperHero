@@ -24,17 +24,17 @@ def create_user(username, photo_name)
   user
 end
 
-user1 = create_user("Jojo", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_l7pigq.png")
-user2 = create_user("Raf", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/vla4d5d9ryr59euzsa1p5aqg2rox_l0ocfg.jpg")
-user3 = create_user("Guil", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/4w42rvgwf37se3uhen2lu5asxmr4_euxfrb.jpg")
-user4 = create_user("Raja", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/nlywlauiloowl7yqd7bf7d6jscf9_ixyyqj.jpg")
-user5 = create_user("Phhhh", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/v5pmrlmucvqeuadunrjq4vu5crsc_heng7r.jpg")
-user6 = create_user("tatayoyo", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_l7pigq.png")
-user7 = create_user("ProGamer853", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/vfleiwieq3r7mdwwmuy2onvhj4su_e8kdbj.png")
-user8 = create_user("DuckyDuck", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/sib1o4d2rmpno5frnbvvw15fuesw_tsfwwl.jpg")
-user9 = create_user("Jane", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_l7pigq.png")
-user10 = create_user("britta", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_l7pigq.png")
-user11 = create_user("QueenB", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655296513/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_l7pigq.png")
+user1 = create_user("Jojo", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_ayjimn.png")
+user2 = create_user("Raf", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/vla4d5d9ryr59euzsa1p5aqg2rox_mdlqrx.jpg")
+user3 = create_user("Guil", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/4w42rvgwf37se3uhen2lu5asxmr4_xyknbl.jpg")
+user4 = create_user("Raja", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/nlywlauiloowl7yqd7bf7d6jscf9_xmtqeh.jpg")
+user5 = create_user("Phhhh", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302175/paperhero/v5pmrlmucvqeuadunrjq4vu5crsc_te6sjh.jpg")
+user6 = create_user("tatayoyo", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_ayjimn.png")
+user7 = create_user("ProGamer853", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/vfleiwieq3r7mdwwmuy2onvhj4su_vcabqg.png")
+user8 = create_user("DuckyDuck", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302175/paperhero/sib1o4d2rmpno5frnbvvw15fuesw_ivikvv.jpg")
+user9 = create_user("Jane", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_ayjimn.png")
+user10 = create_user("britta", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_ayjimn.png")
+user11 = create_user("QueenB", "https://res.cloudinary.com/dftgbltxx/image/upload/v1655302176/paperhero/pukrya2tcaf38tmw1m8uyqix0thu_ayjimn.png")
 
 puts "Done"
 puts "-------------------------"
