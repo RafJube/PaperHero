@@ -6,6 +6,10 @@ local:
   service: Disk
   root: <%= Rails.root.join("storage") %>
 
+cloudinary_dev:
+  service: Cloudinary
+  folder: paperhero/Developement
+
 cloudinary:
   service: Cloudinary
   folder: <%= Rails.env %>
