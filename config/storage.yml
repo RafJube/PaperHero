@@ -8,11 +8,11 @@ local:
 
 cloudinary_dev:
   service: Cloudinary
-  folder: paperhero/Developement
+  folder: 'paperhero/Developement'
 
-cloudinary:
+cloudinary_prod:
   service: Cloudinary
-  folder: <%= Rails.env %>
+  folder: 'paperhero/Production'
 
 # Use rails credentials:edit to set the AWS secrets (as aws:access_key_id|secret_access_key)
 # amazon:
